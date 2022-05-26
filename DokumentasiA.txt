@@ -1,0 +1,39 @@
+Sejarah Linux
+
+Cikal bakal Linux adalah sistem operasi UNIX yang dikembangkan oleh Ken Thompson dan Dennis Ritchie pada tahun 1969. Ken dan Dennis ini juga merupakan penemu dari bahasa pemrograman C, yang mana menjadi dasar dari bahasa pemrograman tingkat tinggi.
+
+Kode sumber UNIX dikembangkan menggunakan bahasa C sehingga mudah pemindahannya ke berbagai platform. Oleh karena itu UNIX mendapat respon dan perhatian yang besar.
+
+Dengan berkembangnya UNIX yang sangat cepat, akhirnya UNIX terpecah menjadi dua aliran yaitu yang dikembangkan oleh Universitas Berkley dan yang dikembangkan oleh AT&T.
+
+Selain itu juga mengakibatkan banyak perusahaan yang ingin memegang kendali dalam bidang sistem operasi. Oleh karena itu ditetapkanlah spesifikasi standar UNIX oleh IEEE (The Institue of Electrical and Engineers) dengan mengemangkan Posix.
+
+Sejak saat itu muncul berbagai macam jenis UNIX, salah satunya yaitu Minix yang dikembangkan oleh A.S. Tanenbaum yang bertujuan untuk pendidikan.
+
+Kemudian pada tahun 1984 mulai mengembangkan proyek GNU dengan membuat software, compiler, editor, textformatters, GUI, libraries, modules, dan masih banyak lagi. GNU didesain supaya kompatibel dengan sistem operasi yang sudah ada yaitu UNIX.
+
+Pada tahun 1990 GNU telah berhasil membuat semua komponen yang diperlukan untuk mengnebangkan sebuah sistem operasi, yaitu compiler, libraries, aplikasi, user interfae. Tetapi ada satu yang belum selesai yaitu kernel yang merupakan inti dari sistem operasi.
+
+Kemudian pada tahun 1991 Lunus Torvalds yang meruakan mahasiswa Jurusan Ilmu Komputer dari Universitas Helsinki menulis sebuah kernel dengan menggunakan bahasa C dan diterjemahkan menggunakan GNU C Compiler.
+
+Linus Torvalds menjadikan kode sumber dari Minix untuk dijadikan referensi untuk mengembangkan sistem operasi baru yang kode sumbernya dapat diakses oleh siapa saja.
+
+Kemudian sistem operasi yang dikembangkan oleh Linus Torvalds ini dinamakan Linux. Awalnya Linus ingin memeberi nama Freax yang merupakan gabungan dari “free freak" dan X yang mengacu pada Unix.
+
+Pada bulan September 1991 Linus mengunggah file yang dikembangkannya ke FTP server (ftp.funet.fi).
+
+Kemudian seorang relawan administrator FTP yaitu Ari Lemmke berfikir bahwa nama Freax kurang bagus untuk dijadikan nama kernel. Lalu ia mengubh nama kernel dengan nama Linux tanpa persetujuan Linus.
+
+Dalam mengembangkan Linux, Linus menggunakan tools dari Free Foundation Software dan program-program yang berlisensi GNU GPL(lisensi untuk software bebas dan gratis).
+
+Dan dari sinilah lahir Linux versi 0.01. Linux versi ini belum dapat disebut sebagai sistem operasi secara utuh.
+
+Kemudian pada tanggal 5 Oktober 1991, Linus Torvalds kode sumber Linux yang menjadi versi Linux resmi pertama yang dikenalkan ke publik, yaitu Linux versi 0.02 dibawah lisensi GNU GPL.
+
+Saat merilis versi ini Linus menuliskan dalam dokumentasinya bahwa Linux memerlukan software yang disediakan oleh GNU supaya dapat menggunakan Linux seutuhnya.
+
+Kemudian pada tahun 1996 Linus Torvalds mengumumkan logo atau maskot dari Linux yaitu seekor Pinguin yang diberi nama Tux.
+
+Linus memilih hewan pinguin karena dia pernah mengalami pengalaman buruk yaitu digigt oleh seekor pinguin di kebun binatang Australia.
+
+Dalam pemilihan logo pinguin, Linus mengadakan sebuah kontes untuk mendesain logo Linux. Kontes ini dimenangkan oleh Larry Ewing dengan desain gambar pinguin sedang duduk bernama Tux. Kata Tux mengacu pada Torvalds Unix yang berarti tuxedo.
