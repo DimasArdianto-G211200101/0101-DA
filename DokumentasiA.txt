@@ -1,8 +1,0 @@
-Perkembangan Linux
-Nama “Linux” berasal dari nama pembuatnya, yang diperkenalkan tahun 1991 oleh Linus Torvalds. Sistemnya, peralatan sistem dan pustakanyaumumnya berasal dari sistem operasi GNU, yang diumumkan tahun 1983 olehRichard Stallman. Kontribusi GNU adalah dasar dari munculnya nama alternatifGNU/Linux.
-
-Linux telah lama dikenal untuk penggunaannya di server, dan didukung oleh perusahaan-perusahaan komputer ternama seperti Intel, Dell, Hewlett-Packard, IBM, Novell, Oracle Corporation, Red Hat, dan Sun Microsystems. Linux digunakan sebagai sistem operasi di berbagai macam jenis perangkat keraskomputer, termasuk komputer desktop, superkomputer, dan sistem benamseperti pembaca buku elektronik, sistem permainan video (PlayStation 2,PlayStation 3 dan XBox), telepon genggam dan router.
-
-Para pengamat teknologi informatika beranggapan kesuksesan Linux dikarenakan Linux tidak bergantung kepada vendor (vendor independence), biaya operasional yang rendah, dan kompatibilitas yang tinggi dibandingkan versi UNIX tak bebas, serta faktor keamanan dan kestabilannya yang tinggi dibandingkan dengan sistem operasi lainnya seperti Microsoft Windows. Ciri-ciri ini juga menjadi bukti atas keunggulan model pengembangan perangkat lunak sumber terbuka (opensource software).
-
-Sistem operasi Linux yang dikenal dengan istilah distribusi Linux (Linux distribution) atau distro Linux umumnya sudah termasuk perangkat-perangkat lunak pendukung seperti server web, bahasa pemrograman, basisdata, tampilan desktop (desktop environment) seperti GNOME,KDE dan Xfce juga memilikipaket aplikasi perkantoran (office suite) seperti OpenOffice.org, KOffice,Abiword
