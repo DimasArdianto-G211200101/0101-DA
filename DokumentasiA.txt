@@ -1,0 +1,25 @@
+Sejarah Linux
+Dennis Ritchie dan Ken Thompson merupakan developer bahasa pada tahun 1969. Peneliti di AT & T Bell Laboratorium Amerika membuat SO atau sistem operasi UNIX, yakni cikal bakal Linux. UNIX memperoleh perhatian besar, sebab ini merupakan sistem operasi pertama yang dibuat bukan dari hardware maker. Selain itu juga karena seluruh source codenya dibuat menggunakan bahasa C, jadi akan mempermudah pemindahan ke berbagai platform.
+
+Dalam waktu yang cepat UNIX berkembang ke dalam dua jalur, yakni UNIX yang dikembangkan oleh AT & T serta UNIX yang dikembangkan oleh Universitas Berkeley. Setelah banyak perusahaan yang melibatkan diri, terjadi persaingan yang membuat perusahaan memegang kontrol dalam bidang operasi. Hal ini menyebabkan adanya standarisasi. Karena itu lahirlah proyek POSIX oleh IEEE yang tujuannya adalah untuk menetapkan spesifikasi standar dari UNIX. Saat itulah muncul berbagai jenis UNIX.
+
+Awalnya sistem operasi Unix dikembangkan dan diimplementasikan pada tahun 1960an dan dirilis pada tahun 1970. Faktor ketersediaan dan kompatibilitasnya yang membuatnya bisa digunakan, disalin, serta dimodifikasi hingga luas oleh institusi akademis dan juga pebisnis.
+
+Linux merupakan sistem operasi yang memiliki sifat multitasking dan multiuser. Yaitu bisa berjalan di berbagai platform, salah satunya prosesor INTEL 386. Sistem ini mengimplementasikan standard POSIX. Dan Linux bisa berintoperasi dengan baik dalam sistem operasi yang lain, misalnya Microsoft, Apple, dan Novell.
+
+Nama Linux diciptakan oleh pembuatnya yaitu Linus Torvalds di Universitas Helsinki, Finlandia. Dahulunya Linux merupakan proyek hobi yang dilakukan oleh Linus Torvalds dan mendapatkan inspirasi dari Minix.
+
+Minix ini merupakan sistem UNIX yang dikembangkan oleh Andy Tanenbaum di tahun 1987. Saat ini Linux adalah sistem UNIX yang lengkap, dapat digunakan untuk jaringan, pengembangan software, dan digunakan sehari-hari. Linux bahkan telah digunakan di berbagai domain dari sistem benam hingga superkomputer, dan sudah memiliki posisi aman dalam instalasi server web dengan aplikasi LAMPnya yang sangat terkenal. Linux juga menjadi alternatif OS yang lebih murah dan memiliki kemampuan setara dengan sistem operasi lainnya.
+
+Linux tidak mempunyai logo yang terlihat menarik, hanya saja seekor burung Pinguin yang bersifat santai saat berjalan. Logo ini memiliki asal usul yang unik, awalnya tidak ada logo yang menggambarkan trademark dari Linux hingga saat si penemu berlibur ke daerah selatan ia bertemu dengan seekor linux kecil yang pendek dan tidak sengaja menggigit jarinya. Hal tersebut membuat Linus demam selama berhari-hari.
+
+Kejadian inilah yang membuat dirinya terinspirasi untuk menggunakan pinguin sebagai logonya. Dan logo tersebut diberi nama TUX yang menjadi maskot dari Linux. Akhirnya setelah melalui beberapa proses Linux terdaftar sebagai program sistem operasi (OS).
+
+Perkembangan Linux
+Nama “Linux” berasal dari nama pembuatnya, yang diperkenalkan tahun 1991 oleh Linus Torvalds. Sistemnya, peralatan sistem dan pustakanyaumumnya berasal dari sistem operasi GNU, yang diumumkan tahun 1983 olehRichard Stallman. Kontribusi GNU adalah dasar dari munculnya nama alternatifGNU/Linux.
+
+Linux telah lama dikenal untuk penggunaannya di server, dan didukung oleh perusahaan-perusahaan komputer ternama seperti Intel, Dell, Hewlett-Packard, IBM, Novell, Oracle Corporation, Red Hat, dan Sun Microsystems. Linux digunakan sebagai sistem operasi di berbagai macam jenis perangkat keraskomputer, termasuk komputer desktop, superkomputer, dan sistem benamseperti pembaca buku elektronik, sistem permainan video (PlayStation 2,PlayStation 3 dan XBox), telepon genggam dan router.
+
+Para pengamat teknologi informatika beranggapan kesuksesan Linux dikarenakan Linux tidak bergantung kepada vendor (vendor independence), biaya operasional yang rendah, dan kompatibilitas yang tinggi dibandingkan versi UNIX tak bebas, serta faktor keamanan dan kestabilannya yang tinggi dibandingkan dengan sistem operasi lainnya seperti Microsoft Windows. Ciri-ciri ini juga menjadi bukti atas keunggulan model pengembangan perangkat lunak sumber terbuka (opensource software).
+
+Sistem operasi Linux yang dikenal dengan istilah distribusi Linux (Linux distribution) atau distro Linux umumnya sudah termasuk perangkat-perangkat lunak pendukung seperti server web, bahasa pemrograman, basisdata, tampilan desktop (desktop environment) seperti GNOME,KDE dan Xfce juga memilikipaket aplikasi perkantoran (office suite) seperti OpenOffice.org, KOffice,Abiword
